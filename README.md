@@ -1,0 +1,1 @@
+Kaggle excercise to predict who dies in Titanic
